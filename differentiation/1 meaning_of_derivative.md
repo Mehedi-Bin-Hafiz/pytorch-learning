@@ -1,5 +1,13 @@
 # 1️⃣ Meaning of Derivative (Slope / Rate of Change)
 
+## basic
+variable = x,y,c 
+function = created by variable. example:  x² , sin x, y²+2y+3
+
+f(x) =  x²
+f(y) = y²+2y+3
+
+
 ## 🔹 Big Idea
 
 A derivative tells us:
@@ -26,6 +34,16 @@ If:
 - x = 3 → f(x) = 9  
 
 So the function maps input → output.
+
+we can also denote f(x) == y
+so when x = 2 then y = 4
+   when x = 3 then y = 9
+
+x এর বৃদ্ধির জন্য y  বৃদ্ধি ঘটে,
+তাহলে x এর বৃদ্ধির জন্য y এর বৃদ্ধি কতটুকু ঘটে তার লিমিট বা হার কেই dy/dx বলে .
+this is the derivative of y with respect to x. 
+Note: ডেরিভেটিভ সব সময় ফাংশন এর হয়, এবং চলকের রেস্পেক্ট এ হয় . 
+
 
 ---
 
@@ -81,7 +99,9 @@ The slope of that tangent line = derivative.
 
 ---
 
-## 🧠 Step 5: Mathematical Definition (Important!)
+## 🧠 Step 5: Mathematical Definition (Important!) Heart of Derivative
+
+
 
 The derivative is defined as:
 
