@@ -101,7 +101,7 @@ The slope of that tangent line = derivative.
 
 ## 🧠 Step 5: Mathematical Definition (Important!) Heart of Derivative
 
-![Derivative Graph](images/heart of derivative.jpeg)
+![Derivative Graph](images/heart-of-derivative.jpeg)
 
 The derivative is defined as:
 
