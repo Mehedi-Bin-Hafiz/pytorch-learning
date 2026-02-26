@@ -136,6 +136,8 @@ we could not compute gradients correctly.
 
 This rule is used in almost every gradient calculation.
 
+Without gradients, the neural network would not know how to improve. They are the engine behind learning, enabling the model to learn patterns from data by slowly adjusting its parameters
+
 ---
 
 ## 🧩 Intuition Summary
